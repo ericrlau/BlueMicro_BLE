@@ -21,9 +21,6 @@ LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR P
 #define HARDWARE_CONFIG_H
 #include "hardware_variants.h"
 
-        #define B5      38 //1.06 = 32+6
-
-
 /* HARDWARE DEFINITION*/
 /* key matrix size */
 
